@@ -1,0 +1,67 @@
+
+
+.content-wrapper{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    padding-top: 0.5em;
+}
+
+.seconnecter{
+    width: 70%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.creation_compte{
+    width: 70%;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    height: 3.5em;
+    
+    
+}
+
+.footer{
+    padding-top: 1em;
+    background-color: #212529;
+    color: white;
+}
+
+.endp{
+    text-align: center;
+}
+
+.card_{
+margin-bottom: 0.5em;
+}
+
+.searchbar{
+    margin-bottom: 0.5em;
+    
+    }
+
+.footer_style{
+    text-align: center;
+}
+
+.pop{
+    
+    width: 65vw;
+    height: 90vh;
+}
+
+.card_body{
+    background-color: #212529;
+    color: white;
+}
+
+.card_admin_test{
+    display: inline;
+}
